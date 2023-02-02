@@ -1,0 +1,9 @@
+{
+	"name": "DFKen",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40d181c4-4d8f-41af-9407-2eafac8fcb91",
+		"tenantId": "eab3f3f2-c7cd-4252-ba77-1f5821a9e0f0"
+	}
+}

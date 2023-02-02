@@ -1,0 +1,16 @@
+{
+	"name": "TableList",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "KenjiDB",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "Lookup Foreach"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
